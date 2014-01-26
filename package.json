@@ -1,6 +1,6 @@
 {
   "name": "json2rss",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Converts a json file into an RSS feed",
   "main": "bin/json2rss.js",
   "scripts": {
